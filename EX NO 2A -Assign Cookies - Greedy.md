@@ -1,6 +1,6 @@
 
 # EX 2A Assign Cookies using Greedy Algorithm. 
-## DATE: 12.9.25
+
 ## AIM:
 To Write a Java program for the following Constraints.
 Assume you are an awesome parent and want to give your children some cookies. But, you should give each child at most one cookie.
@@ -30,9 +30,8 @@ Each child i has a greed factor g[i], which is the minimum size of a cookie that
 ## Program:
 ```
 /*
-Program to implement Reverse a String
-Developed by: Gayathri T
-Register Number: 212223100007
+Developed by: Priyanka A
+Register Number: 212222230113
 */
 import java.util.*;
 
